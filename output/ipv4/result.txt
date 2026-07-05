@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-03 20:04:07,https://iptv.catvod.com/live.php?id=CCTV1&line=3$订阅源
+2026-07-05 19:26:58,https://iptv.catvod.com/live.php?id=CCTV1&line=3$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=3$订阅源
@@ -47,9 +47,9 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=2$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
-CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
-CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://173.208.212.130:8181/720p/cctv5p.m3u8$订阅源
+CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
+CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=1$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=2$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=3$订阅源
@@ -106,14 +106,14 @@ CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=5$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=6$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=7$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=8$订阅源
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux$订阅源
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=1$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=2$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=3$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=4$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=5$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=6$订阅源
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=7$订阅源
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=1$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=2$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=3$订阅源
@@ -136,8 +136,8 @@ CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=4$订阅源
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8$订阅源
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8$订阅源
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=1$订阅源
@@ -148,23 +148,22 @@ CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2$订阅源
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6$订阅源
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=1$订阅源
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=2$订阅源
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=1$订阅源
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=2$订阅源
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=3$订阅源
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=4$订阅源
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=5$订阅源
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=6$订阅源
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8$订阅源
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd$订阅源
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$订阅源
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$订阅源
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=4$订阅源
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8$订阅源
 东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd$订阅源
-东南卫视,http://207.56.13.146:81/cdnlive/dnws.m3u8$订阅源
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8$订阅源
-江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
+东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=c03df89ae9846b79a770c4c369acb60e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=1$订阅源
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=2$订阅源
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=3$订阅源
@@ -172,6 +171,7 @@ CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2$订阅源
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=5$订阅源
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=6$订阅源
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=7$订阅源
+江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=8$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=1$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=2$订阅源
