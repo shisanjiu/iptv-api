@@ -1,17 +1,16 @@
 🕘️更新时间,#genre#
-2026-08-29 22:54:21,http://182.140.125.47:808/hls/1/index.m3u8$订阅源
+2026-09-01 01:23:27,http://125.125.234.143:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://182.140.125.47:808/hls/1/index.m3u8$订阅源
-CCTV-1,http://182.140.125.47:808/hls/1/index.m3u8$订阅源
+CCTV-1,http://125.125.234.143:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-1,http://125.125.234.143:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
+CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
 CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
-CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
-CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
-CCTV-2,http://115.48.161.239:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-2,http://115.48.161.239:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-2,http://125.125.234.143:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8$订阅源
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8$订阅源
 CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8$订阅源
@@ -33,13 +32,15 @@ CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=aeee9fc440a5f4bc1bb9574b65
 CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8$订阅源
 CCTV-5,http://107.150.60.122/live/cctv5p.m3u8$订阅源
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$订阅源
+CCTV-5,http://104.152.209.49:8181/720p/cctv5.m3u8$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
-CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://173.208.212.130:8181/720p/cctv5p.m3u8$订阅源
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
+CCTV-5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8$订阅源
 CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
+CCTV-5+,http://125.125.234.143:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=6679e65e7347bf23d1db5691a8f93888&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -71,7 +72,7 @@ CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=9b73d31612fe525017b680bb3d
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=9fb9358174c897392a181a9405abdfdc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8$订阅源
+CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8$订阅源
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=61d2faba189c1fee2c26fb733648e7d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -79,15 +80,15 @@ CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=5c17e973e6d2241c96beb262
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=3b93fbcc94fb84f897deb567d7a2a4ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=e9830dca6d1b10ef91a221ea8a0d0535&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=802331ccd41b8d8283234e98b55fe720&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8$订阅源
+CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8$订阅源
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=2d225001eb069683c2fc67d97be29689&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=c69f5433fa130011553d458dc212c18b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=61be47c4b483b6f38fc816d9d022a325&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=2fce646d8dbb72c508744df2e722b855&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8$订阅源
 CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8$订阅源
+CCTV-11,http://104.152.209.49:8181/720p/cctv11.m3u8$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=577823de18178c8e78f5dc92bfa605c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=2ffaa6964c764868df1ed3aa59a57a7d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=2f2d9ed82e6e7edae66f9af09f19cced&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -95,7 +96,7 @@ CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=ab6198438329e6431e97e893
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=7274a33e11b479af1bb9e15efd258e4b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8$订阅源
+CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8$订阅源
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=dbecf1389d46378ca3d9cd89bc2b6f25&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=ceb09a1a782b93dd7f13c95e7bc5d37b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=10271fee253d2d91a7fc49f708ec621e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -103,7 +104,7 @@ CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=ca0ccc1cc485217f8cd83884
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=9ea97cd43bafe3b9e0250240d221d0e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8$订阅源
+CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8$订阅源
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=cabc817805412b81748c942b2dcb39c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -111,7 +112,7 @@ CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=d97345047af477cfec39d9d9
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=dea6e23e9d7b5317f3605c247aaba891&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=8f369d689a4dd78055143e69e32ce6d8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=f0870d5670f7b591427c91bcb34e55d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
+CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8$订阅源
 
 📡卫视频道,#genre#
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=fd3b4ddfd1dabea05102cd13ed0320c1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -121,7 +122,7 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=c754d2f5e3d33c503db0ce40bf7ebae7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8$订阅源
-浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub$订阅源
+浙江卫视,http://104.152.209.49:8181/720p/zjws.m3u8$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=8e9299121d7998c768bf5cca270f2956&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=3a2f9c81b8b580f1303e333f855c5f54&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -129,15 +130,15 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=e9d82e727780e80a83d0225fa0fa8dfe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=763a3d2b96259ea95b79897ae6de248d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8$订阅源
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14da0d2cdf18d9845e3d9d4fc51357e0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=83e17d40a257c99cd03440142db1b4a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14205fe676d226d4cdbd1d52fe782dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=e078747837ff9cad6d2a314ebeffa51c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=827ecb21a6a263faddc5d2aa1887dbc7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8$订阅源
-北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=aa8142885ada622172731e7680cd83b7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=3433f27cf6adcff6f7d7ca24155aab41&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=1d5fd57f18cd8a77af78ee5e1f479e70&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -145,7 +146,7 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=1f254bac0e50a789df71841f98a0ea9a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-东方卫视,http://107.150.60.122/live/dfwshd.m3u8$订阅源
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=c03df89ae9846b79a770c4c369acb60e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=885a6a474f57bcf0bf6641441080e3d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=9f7e5a5075f9b78b82fcba50d90ede63&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -161,7 +162,7 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=1f708c4111f88ab499c8ef73b9f30902&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=532885846757ddf8f597ab4a3ca7101e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-江苏卫视,http://107.150.60.122/live/jswshd.m3u8$订阅源
+江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=5386c588d4bbd34f863c7366b934f9d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=db19730d20622f8801f0b4e9ece132ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=8a27b43e392baf21240c4b5a959652c7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
