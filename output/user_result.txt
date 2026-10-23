@@ -1,21 +1,21 @@
 🕘️更新时间,#genre#
-2026-10-21 22:48:21,http://173.208.234.146/live/cctv2.m3u8$订阅源
+2026-10-23 22:35:01,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-2,http://173.208.234.146/live/cctv2.m3u8$订阅源
-CCTV-2,http://173.208.234.146/live/cctv2.m3u8$订阅源
-CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
-CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
-CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
-CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
+CCTV-2,http://173.208.234.146/live/cctv2.m3u8$订阅源
+CCTV-2,http://173.208.234.146/live/cctv2.m3u8$订阅源
+CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
+CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
+CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
+CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8$订阅源
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8$订阅源
 CCTV-3,http://192.151.150.154/live/cctv3hd.m3u8$订阅源
 CCTV-3,http://192.151.150.154/live/cctv3hd.m3u8$订阅源
-CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$订阅源
 CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8$订阅源
+CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$订阅源
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=9d2612a9fac7098d2105cf8bf4625d1d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=9d2612a9fac7098d2105cf8bf4625d1d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -35,8 +35,8 @@ CCTV-5,http://192.151.150.154/live/cctv5hd.m3u8$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
-CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
 CCTV-5+,http://173.208.212.130:8181/720p/cctv5p.m3u8$订阅源
+CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
 CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=6679e65e7347bf23d1db5691a8f93888&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -119,7 +119,7 @@ CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=c754d2f5e3d33c503db0ce40bf7ebae7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8$订阅源
-浙江卫视,http://198.204.228.26/live/zjwshd.m3u8$订阅源
+浙江卫视,http://104.152.209.49:8181/720p/zjws.m3u8$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=8e9299121d7998c768bf5cca270f2956&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=3a2f9c81b8b580f1303e333f855c5f54&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
